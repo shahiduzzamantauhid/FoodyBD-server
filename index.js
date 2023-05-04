@@ -9,9 +9,11 @@ app.use(cors());
 app.get('/', (req, res) => {
     res.send('Hello Vai This Is Food App!')
 })
+
 app.get('/chef', (req, res) => {
     res.send(data)
 })
+
 app.get('/chef/:id', (req, res) => {
     const id = req.params.id;
     const chef = data.find(n => n.chef_id === id);
