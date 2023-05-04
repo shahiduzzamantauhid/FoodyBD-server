@@ -45,5 +45,264 @@
                 "rating": 4.3
             }
         ]
+    },
+    {
+        "chef_id": "chf002",
+        "chef_picture": "https://i.ibb.co/qpKj4h5/masud.jpg",
+        "chef_name": "Masud Smith",
+        "years_of_experience": 10,
+        "description": "Jane Masud Smith is a talented chef who has worked in some of the most popular restaurants in the country. She is known for her creative and innovative approach to cooking, and is always experimenting with new flavors and ingredients.",
+        "number_of_recipes": 30,
+        "likes": 800,
+        "recipes": [
+            {
+                "recipe_name": "Shrimp Curry",
+                "ingredients": [
+                    "shrimp",
+                    "coconut milk",
+                    "onion",
+                    "garlic",
+                    "ginger"
+                ],
+                "cooking_method": "In a large pot, heat oil over medium heat. Add onions, garlic and ginger and cook until onions are soft. Add shrimp and cook until pink. Add coconut milk and bring to a boil. Reduce heat and let simmer for 10 minutes. Serve with rice.",
+                "rating": 4.2
+            },
+            {
+                "recipe_name": "Chana Masala",
+                "ingredients": [
+                    "chickpeas",
+                    "tomatoes",
+                    "onion",
+                    "spices",
+                    "lemon"
+                ],
+                "cooking_method": "In a large pan, heat oil over medium heat. Add onions and cook until soft. Add spices and cook for 1 minute. Add tomatoes and chickpeas and cook until heated through. Serve with lemon wedges.",
+                "rating": 4.1
+            },
+            {
+                "recipe_name": "Bengali Fish Curry",
+                "ingredients": [
+                    "fish",
+                    "mustard oil",
+                    "onion",
+                    "ginger",
+                    "tomato"
+                ],
+                "cooking_method": "In a large pan, heat mustard oil over medium heat. Add onions and cook until soft. Add ginger and cook for 1 minute. Add tomatoes and cook until soft. Add fish and cook until done. Serve with rice.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Beef Bhuna",
+                "ingredients": [
+                    "beef",
+                    "onion",
+                    "garlic",
+                    "ginger",
+                    "chili"
+                ],
+                "cooking_method": "In a large pot, heat oil over medium heat. Add onions, garlic, ginger and chili and cook until onions are soft. Add beef and cook until browned. Add water, cover and let simmer for 30 minutes or until beef is tender. Serve with naan or rice.",
+                "rating": 4.3
+            },
+            {
+                "recipe_name": "Lamb Vindaloo",
+                "ingredients": [
+                    "lamb",
+                    "potatoes",
+                    "onion",
+                    "garlic",
+                    "chili"
+                ],
+                "cooking_method": "In a large pot, heat oil over medium heat. Add onions, garlic and chili and cook until onions are soft. Add lamb and cook until browned. Add potatoes and cook for 5 minutes. Add water and bring to a boil. Reduce heat and let simmer for 1 hour or until lamb is tender. Serve with naan or rice.",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "chef_id": "chf003",
+        "chef_picture": "https://i.ibb.co/k8fph5B/david.jpg",
+        "chef_name": "David Lee",
+        "years_of_experience": 8,
+        "description": "David Lee is a young and talented chef who has already made a name for himself in the culinary world. He is passionate about creating healthy and flavorful dishes that showcase the natural beauty of the ingredients.",
+        "number_of_recipes": 20,
+        "likes": 500,
+        "recipes": [
+            {
+                "recipe_name": "Saffron Rice",
+                "ingredients": [
+                    "rice",
+                    "saffron",
+                    "onion",
+                    "garlic",
+                    "bay leaf"
+                ],
+                "cooking_method": "In a large pot, heat oil over medium heat. Add onions and cook until soft. Add garlic and cook for 1 minute. Add rice and cook until lightly toasted. Add saffron, bay leaf and water. Bring to a boil, then reduce heat and let simmer for 20 minutes or until rice is tender.",
+                "rating": 4.0
+            },
+            {
+                "recipe_name": "Mixed Vegetable Curry",
+                "ingredients": [
+                    "carrots",
+                    "potatoes",
+                    "cauliflower",
+                    "peas",
+                    "tomatoes"
+                ],
+                "cooking_method": "In a large pan, heat oil over medium heat. Add vegetables and cook until slightly softened. Add spices and cook for 1 minute. Add tomatoes and enough water to cover the vegetables. Bring to a boil, then reduce heat and let simmer for 20 minutes or until vegetables are tender. Serve with rice.",
+                "rating": 4.2
+            },
+            {
+                "recipe_name": "Dal Fry",
+                "ingredients": [
+                    "lentils",
+                    "onion",
+                    "garlic",
+                    "ginger",
+                    "spices"
+                ],
+                "cooking_method": "In a large pot, heat oil over medium heat. Add onions, garlic and ginger and cook until onions are soft. Add spices and cook for 1 minute. Add lentils and enough water to cover them. Bring to a boil, then reduce heat and let simmer for 30 minutes or until lentils are tender. Serve with naan or rice.",
+                "rating": 4.3
+            }
+        ]
+    },
+    {
+        "chef_id": "chf004",
+        "chef_picture": "https://tfe-bd.sgp1.cdn.digitaloceanspaces.com/uploads/1625849516.jpg",
+        "chef_name": "Maria Garcia",
+        "years_of_experience": 12,
+        "description": "Maria Garcia is a skilled chef who specializes in creating traditional and authentic dishes from her home country of Mexico. She is known for her bold and spicy flavors, and her dishes are always a crowd-pleaser.",
+        "number_of_recipes": 40,
+        "likes": 900,
+        "recipes": [
+            {
+                "recipe_name": "Tacos al Pastor",
+                "ingredients": [
+                    "pork",
+                    "pineapple",
+                    "onion",
+                    "cilantro",
+                    "corn tortillas"
+                ],
+                "cooking_method": "In a large bowl, mix together the pork, pineapple, onion, cilantro and spices. Let marinate for at least 1 hour. Heat a large skillet over medium-high heat. Add the pork mixture and cook until browned. Serve on warm corn tortillas.",
+                "rating": 4.7
+            },
+            {
+                "recipe_name": "Chiles Rellenos",
+                "ingredients": [
+                    "poblano peppers",
+                    "ground beef",
+                    "rice",
+                    "tomatoes",
+                    "cheese"
+                ],
+                "cooking_method": "Roast poblano peppers until charred on all sides. Let cool and peel the skin off. Stuff the peppers with cooked rice and seasoned ground beef. Top with tomato sauce and cheese. Bake in the oven for 15 minutes or until cheese is melted and bubbly.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Enchiladas Verdes",
+                "ingredients": [
+                    "chicken",
+                    "tortillas",
+                    "tomatillos",
+                    "jalapeno",
+                    "queso fresco"
+                ],
+                "cooking_method": "Cook chicken until fully cooked, shred and set aside. In a blender, combine tomatillos, jalapeno, and spices until smooth. In a skillet, heat oil over medium-high heat. Dip tortillas into the tomatillo sauce and add chicken. Roll tortillas up and place in skillet. Top with more tomatillo sauce and queso fresco. Cook until the cheese is melted and bubbly.",
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "chef_id": "chf005",
+        "chef_picture": "https://i.ibb.co/KrGTdfj/ming.jpg",
+        "chef_name": "Ming Tsai",
+        "years_of_experience": 25,
+        "description": "Ming Tsai is a renowned chef who has been cooking for over 25 years. He is a master of fusion cuisine and is known for his creative and innovative dishes. He is also a skilled teacher, and has hosted several cooking shows and written several cookbooks.",
+        "number_of_recipes": 50,
+        "likes": 1500,
+        "recipes": [
+            {
+                "recipe_name": "Miso-Glazed Salmon",
+                "ingredients": [
+                    "salmon",
+                    "miso paste",
+                    "soy sauce",
+                    "honey",
+                    "ginger"
+                ],
+                "cooking_method": "In a bowl, mix together the miso paste, soy sauce, honey, and ginger. Spread the mixture over the salmon fillets. Place the fillets in a baking dish and bake at 400 degrees for 12-15 minutes, or until cooked through.",
+                "rating": 4.9
+            },
+            {
+                "recipe_name": "Vegetable Fried Rice",
+                "ingredients": [
+                    "rice",
+                    "vegetables",
+                    "eggs",
+                    "soy sauce",
+                    "sesame oil"
+                ],
+                "cooking_method": "Cook rice and set aside. In a pan, cook the vegetables until slightly softened. Push the vegetables to one side of the pan and add eggs to the other side. Scramble the eggs and mix with the vegetables. Add the cooked rice to the pan and stir to combine. Add soy sauce and sesame oil and stir to coat the rice and vegetables.",
+                "rating": 4.6
+            },
+            {
+                "recipe_name": "Lemongrass Chicken",
+                "ingredients": [
+                    "chicken breasts",
+                    "lemongrass",
+                    "garlic",
+                    "soy sauce",
+                    "brown sugar"
+                ],
+                "cooking_method": "Combine lemongrass, garlic, soy sauce, and brown sugar in a bowl. Marinate the chicken breasts in the mixture for at least 30 minutes. Heat a grill or grill pan to medium-high heat. Grill the chicken until cooked through, about 5-7 minutes per side. Serve with steamed rice and vegetables.",
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "chef_id": "chf006",
+        "chef_picture": "https://i.ibb.co/TRqxgWc/yotam.jpg",
+        "chef_name": "Yotam Ottolenghi",
+        "years_of_experience": 20,
+        "description": "Yotam Ottolenghi is a famous Israeli-British chef and restaurateur. He is the author of several bestselling cookbooks and is known for his creative and modern approach to Middle Eastern and Mediterranean cuisine.",
+        "number_of_recipes": 60,
+        "likes": 2500,
+        "recipes": [
+            {
+                "recipe_name": "Shakshuka",
+                "ingredients": [
+                    "tomatoes",
+                    "onion",
+                    "bell pepper",
+                    "garlic",
+                    "eggs"
+                ],
+                "cooking_method": "In a large skillet, sauté onions, bell peppers, and garlic until soft. Add tomatoes and spices and cook until the mixture has thickened. Use a spoon to make wells in the sauce and crack eggs into the wells. Cover and cook until the eggs are cooked to your liking. Serve with crusty bread.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Roasted Butternut Squash Salad",
+                "ingredients": [
+                    "butternut squash",
+                    "arugula",
+                    "feta cheese",
+                    "pomegranate seeds",
+                    "honey"
+                ],
+                "cooking_method": "Peel and dice butternut squash. Toss with olive oil, salt, and pepper and roast in the oven until tender. Combine roasted butternut squash with arugula, feta cheese, and pomegranate seeds. Drizzle with honey and toss to combine.",
+                "rating": 4.6
+            },
+            {
+                "recipe_name": "Za'atar Chicken",
+                "ingredients": [
+                    "chicken thighs",
+                    "za'atar spice mix",
+                    "garlic",
+                    "lemon",
+                    "olive oil"
+                ],
+                "cooking_method": "Combine za'atar spice mix, garlic, lemon juice, and olive oil in a bowl. Add chicken thighs and toss to coat. Let marinate for at least 30 minutes. Heat a grill or grill pan to medium-high heat. Grill the chicken until cooked through, about 5-7 minutes per side. Serve with a side salad.",
+                "rating": 4.7
+            }
+        ]
     }
 ]
