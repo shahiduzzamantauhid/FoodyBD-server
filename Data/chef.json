@@ -1,0 +1,49 @@
+[
+    {
+        "chef_id": "chf001",
+        "chef_picture": "https://i2-prod.cambridge-news.co.uk/incoming/article20096098.ece/ALTERNATES/s1200c/0_Julal-Syed-from-Taj-Tandoori.jpg",
+        "chef_name": "Joges Doe",
+        "years_of_experience": 15,
+        "description": "Joges Doe is a highly experienced chef who has worked in some of the finest restaurants around the world. He has a passion for creating unique and delicious dishes that satisfy even the most discerning palates.",
+        "number_of_recipes": 50,
+        "likes": 1000,
+        "recipes": [
+            {
+                "recipe_name": "Beef Curry",
+                "ingredients": [
+                    "beef",
+                    "potato",
+                    "onion",
+                    "ginger",
+                    "garlic"
+                ],
+                "cooking_method": "In a large pot, heat oil over medium heat. Add onions, ginger and garlic and cook until onions are soft. Add beef and potatoes and cook until beef is browned. Add water, bring to a boil, then reduce heat and let simmer for 30 minutes or until beef is tender. Serve with rice.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Fish Curry",
+                "ingredients": [
+                    "fish",
+                    "tomato",
+                    "onion",
+                    "turmeric",
+                    "cumin"
+                ],
+                "cooking_method": "In a large pan, heat oil over medium heat. Add onions and cook until soft. Add tomatoes, turmeric and cumin and cook until tomatoes are soft. Add fish and cook until done. Serve with rice.",
+                "rating": 4.0
+            },
+            {
+                "recipe_name": "Chicken Korma",
+                "ingredients": [
+                    "chicken",
+                    "yogurt",
+                    "almonds",
+                    "raisins",
+                    "spices"
+                ],
+                "cooking_method": "In a large pot, heat oil over medium heat. Add chicken and cook until browned. Add spices, yogurt, almonds and raisins and cook until chicken is tender. Serve with naan or rice.",
+                "rating": 4.3
+            }
+        ]
+    }
+]
